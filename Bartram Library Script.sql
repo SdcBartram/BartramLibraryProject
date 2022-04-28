@@ -588,10 +588,10 @@ CREATE OR REPLACE VIEW Books_Reserved AS
 			JOIN authors
 			ON authors_books.Author_ID = authors.Author_ID
 				JOIN Reservations
-                on reservations.Book_ID = books.Book_ID
+               			 on reservations.Book_ID = books.Book_ID
 					JOIN Reservation_Status
-                    on reservation_status.Res_Status_ID = reservations.Res_Status_ID
-		WHERE Res_Status = 'Reserved';
+                    			on reservation_status.Res_Status_ID = reservations.Res_Status_ID
+					WHERE Res_Status = 'Reserved';
 
 #Query of view created
 SELECT Title, Total_Copies, Reservation_Date
