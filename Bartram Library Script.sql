@@ -431,7 +431,7 @@ SET DELIMITER TO;
 
 To Test:
 Select * From Reservations;
-CALL Add_Reservation (5, 11, CURRENT_DATE(), 1);
+CALL Add_Reservation (11, 5, CURRENT_DATE(), 1);
 
 ## Additional procedure to add a fine for a late book return
 DROP PROCEDURE IF EXISTS Add_Fine;
