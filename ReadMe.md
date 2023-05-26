@@ -1,6 +1,6 @@
 # Library Project
 
-I attended a Data and SQL course with Code First Girls, sponsored by Cognizant Foundation. 
+In 2022, I attended a Data and SQL course with Code First Girls, sponsored by Cognizant Foundation. 
 
 A requirement of the course was to complete a SQL project. 
 
