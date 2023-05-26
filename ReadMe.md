@@ -11,7 +11,7 @@ Details of the brief shown below:
 ![project brief](./Planning/Brief/brief%20page%201.png)
 ![project brief](./Planning/Brief/brief%20page%202.png)
 
-## Planning & Database Relationships
+## My Planning & Database Relationships
 
 ![DB diagram](./Planning/Bartram%20Library%20ER%20Diagram.png)
 
@@ -21,12 +21,14 @@ Details of the brief shown below:
 
 Data and SQL are two of the most sought-after skills by hiring employers in the tech world with loads of data career pathways! Learn the fundamentals of data and SQL and at the end of the course, students will complete a data project and will be able to build, deploy and maintain a database.
 
-SQL programming language
-Database management
-Data analysis and manipulation
-Visualising data
-Mini data skills project
-DATA & SQL COURSE MODULES
+- SQL programming language
+- Database management
+- Data analysis and manipulation
+- Visualising data
+- Mini data skills project
+
+<strong>DATA & SQL COURSE MODULES</strong>
+
 Module 1: Introduction to SQL Programming Language and Data
 
 Module 2: SQL Coding and Database Management Techniques
